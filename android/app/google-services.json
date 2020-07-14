@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926014744331",
+    "firebase_url": "https://officespacemanagement.firebaseio.com",
+    "project_id": "officespacemanagement",
+    "storage_bucket": "officespacemanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926014744331:android:0d099cbeacdaf84a1e240e",
+        "android_client_info": {
+          "package_name": "com.example.office_space_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926014744331-q00np6rvqu7906md4vnaasdkr87ou020.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD663j-S1S3HaA-w8IMttsiGPrY9cySWn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926014744331-q00np6rvqu7906md4vnaasdkr87ou020.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
